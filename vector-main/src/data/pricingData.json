@@ -1,0 +1,97 @@
+{
+  "plans": [
+    {
+      "name": "Starter",
+      "monthlyPrice": 0,
+      "yearlyPrice": 0,
+      "description": "Perfect for small groups and early-stage communities.",
+      "color": "#F8F9FA",
+      "borderColor": "#EAEAEA",
+      "buttonVariant": "outlined",
+      "features": [
+        { "label": "Up to 500 members", "included": true },
+        { "label": "Basic discussion forums", "included": true },
+        { "label": "Member directory", "included": true },
+        { "label": "Email notifications", "included": true },
+        { "label": "Analytics dashboard", "included": false },
+        { "label": "Custom branding", "included": false },
+        { "label": "Priority support", "included": false },
+        { "label": "API access", "included": false }
+      ]
+    },
+    {
+      "name": "Growth",
+      "monthlyPrice": 29,
+      "yearlyPrice": 23,
+      "description": "For growing communities that need more power and flexibility.",
+      "color": "#FFFFFF",
+      "borderColor": "#4CAF4F",
+      "popular": true,
+      "buttonVariant": "contained",
+      "features": [
+        { "label": "Up to 5,000 members", "included": true },
+        { "label": "Advanced discussion forums", "included": true },
+        { "label": "Member directory", "included": true },
+        { "label": "Email & push notifications", "included": true },
+        { "label": "Analytics dashboard", "included": true },
+        { "label": "Custom branding", "included": true },
+        { "label": "Priority support", "included": false },
+        { "label": "API access", "included": false }
+      ]
+    },
+    {
+      "name": "Enterprise",
+      "monthlyPrice": 79,
+      "yearlyPrice": 63,
+      "description": "For large organizations that need enterprise-grade features.",
+      "color": "#18191F",
+      "borderColor": "#18191F",
+      "dark": true,
+      "buttonVariant": "contained",
+      "features": [
+        { "label": "Unlimited members", "included": true },
+        { "label": "All forum features", "included": true },
+        { "label": "Advanced member directory", "included": true },
+        { "label": "All notification channels", "included": true },
+        { "label": "Advanced analytics & reports", "included": true },
+        { "label": "White-label branding", "included": true },
+        { "label": "Dedicated support", "included": true },
+        { "label": "Full API access", "included": true }
+      ]
+    }
+  ],
+  "faqs": [
+  {
+    "q": "Can I change plans at any time?",
+    "a": "Yes, you can upgrade or downgrade your plan at any time from your account settings. When upgrading, the new features become available immediately and the price difference is prorated. If you downgrade, the changes will take effect at the end of your current billing cycle so you won’t lose access to features you’ve already paid for."
+  },
+  {
+    "q": "Is there a free trial?",
+    "a": "All paid plans come with a 14-day free trial. You can explore all premium features during this period without any restrictions. No charges will be made until the trial ends, and you can cancel anytime before that without being billed."
+  },
+  {
+    "q": "What payment methods do you accept?",
+    "a": "We accept all major credit cards including Visa, MasterCard, and American Express. We also support PayPal for secure online payments. All transactions are encrypted and processed securely to ensure your financial information remains protected."
+  },
+  {
+    "q": "Can I cancel anytime?",
+    "a": "Yes, you can cancel your subscription at any time directly from your dashboard. There are no long-term contracts or cancellation fees. After cancellation, your plan will remain active until the end of your billing cycle."
+  },
+  {
+    "q": "Do you offer discounts for yearly billing?",
+    "a": "Yes, we offer significant discounts when you choose annual billing. By switching to yearly plans, you can save up to 20% compared to monthly pricing. The discounted rate is applied upfront and helps you reduce long-term costs."
+  },
+  {
+    "q": "Is my data secure?",
+    "a": "Absolutely. We use industry-standard encryption protocols, secure data centers, and regular security audits to ensure your data is safe. All user information is encrypted in transit and at rest. We also follow strict privacy policies and never share your data with third parties."
+  },
+  {
+    "q": "Do you provide customer support?",
+    "a": "Yes, we offer email support on all plans. Higher-tier plans include priority support and faster response times. Our support team is available to help you with setup, troubleshooting, and best practices to get the most out of the platform."
+  },
+  {
+    "q": "Can I request custom features?",
+    "a": "Enterprise customers can request custom features and integrations based on their business requirements. Our team works closely with enterprise clients to tailor solutions, provide onboarding assistance, and ensure smooth implementation."
+  }
+]
+}

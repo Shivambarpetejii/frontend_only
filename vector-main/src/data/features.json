@@ -1,0 +1,53 @@
+{
+  "hero": {
+    "badge": "Powerful Features",
+    "title": "Everything you need to",
+    "highlight": "grow your community",
+    "description": "Vector provides a complete suite of powerful tools designed to help you build, manage, and scale thriving communities with confidence. From member engagement to advanced analytics, everything works seamlessly together — without unnecessary complexity or technical barriers.",
+    "cta": "Get Started Free"
+  },
+  "section": {
+    "title": "Built for every community",
+    "subtitle": "Whether you're running a small interest group, a fast-growing startup community, or a large enterprise network, Vector adapts to your needs and scales effortlessly as your members and engagement grow over time."
+  },
+  "features": [
+    {
+      "icon": "Speed",
+      "title": "Blazing Fast Performance",
+      "desc": "Our optimized cloud infrastructure ensures lightning-fast load times and smooth interactions across every device. Members can navigate discussions, access resources, and engage with content instantly, creating a seamless experience that keeps your community active and engaged."
+    },
+    {
+      "icon": "Groups",
+      "title": "Community Management",
+      "desc": "Manage members, roles, permissions, and content moderation from a centralized dashboard. Automate workflows, organize discussions efficiently, and maintain complete control over your community structure without overwhelming administrative effort."
+    },
+    {
+      "icon": "Insights",
+      "title": "Deep Analytics",
+      "desc": "Gain actionable insights into member activity, engagement trends, growth metrics, and content performance. With real-time reporting and customizable dashboards, you can make data-driven decisions that strengthen participation and long-term community success."
+    },
+    {
+      "icon": "Security",
+      "title": "Enterprise Security",
+      "desc": "Protect your community with advanced security protocols including bank-level encryption, secure authentication, single sign-on integration, and granular privacy controls. Your data remains safe, compliant, and fully protected at every stage."
+    },
+    {
+      "icon": "Devices",
+      "title": "Cross-Platform Access",
+      "desc": "Deliver a consistent and responsive experience across web, iOS, and Android platforms. Members can join discussions, access updates, and stay connected anytime, anywhere, ensuring your community remains active beyond a single device."
+    },
+    {
+      "icon": "SupportAgent",
+      "title": "24/7 Support",
+      "desc": "Our experienced support team is available around the clock to assist with setup, troubleshooting, and optimization. From onboarding guidance to technical solutions, we ensure your community runs smoothly without interruptions."
+    }
+  ],
+  "highlights": [
+    "No technical knowledge required",
+    "Setup in under 5 minutes",
+    "Unlimited members on all plans",
+    "99.9% uptime guarantee",
+    "GDPR & CCPA compliant",
+    "Dedicated onboarding specialist"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "hero": {
+    "title": "Our Community",
+    "subtitle": "Connect, Learn and Grow Together with 2M+ Members Worldwide",
+    "bannerImage": "/images/community.jpeg"
+  },
+
+  "stats": [
+    { "label": "Total Members", "value": "2,245,341" },
+    { "label": "Discussions", "value": "46,328" },
+    { "label": "Posts Published", "value": "828,867" },
+    { "label": "Active Contributors", "value": "1,926,436" }
+  ],
+
+  "membersSectionTitle": "Community Leaders & Contributors",
+  "membersSectionSubtitle": "Meet the people who make our community stronger every day.",
+  "membersSectionImage": "/images/teamwork.jpg",
+
+  "categoriesSectionTitle": "Explore Discussion Categories",
+  "categoriesSectionSubtitle": "Find topics that match your interests and expertise.",
+
+  "cta": {
+    "title": "Want to be part of our growing community?",
+    "subtitle": "Join thousands of creators, developers, and leaders shaping the future.",
+    "buttonText": "Join Now"
+  },
+
+  "members": [
+    {
+      "name": "Sarah Chen",
+      "role": "Community Leader",
+      "posts": "1,240 posts",
+      "joined": "Joined 3 years ago",
+      "color": "#4CAF4F"
+    },
+    {
+      "name": "Marcus Wright",
+      "role": "Top Contributor",
+      "posts": "890 posts",
+      "joined": "Joined 2 years ago",
+      "color": "#2196F3"
+    },
+    {
+      "name": "Priya Sharma",
+      "role": "Moderator",
+      "posts": "2,100 posts",
+      "joined": "Joined 4 years ago",
+      "color": "#FF9800"
+    },
+    {
+      "name": "James Okafor",
+      "role": "Member",
+      "posts": "340 posts",
+      "joined": "Joined 1 year ago",
+      "color": "#E91E63"
+    },
+    {
+      "name": "Lena Müller",
+      "role": "Top Contributor",
+      "posts": "670 posts",
+      "joined": "Joined 2 years ago",
+      "color": "#9C27B0"
+    },
+    {
+      "name": "Aiko Tanaka",
+      "role": "Community Leader",
+      "posts": "1,560 posts",
+      "joined": "Joined 3 years ago",
+      "color": "#00BCD4"
+    }
+  ],
+
+  "categories": [
+    {
+      "title": "Product Updates",
+      "posts": "1,243 posts",
+      "icon": "campaign"
+    },
+    {
+      "title": "Design",
+      "posts": "876 posts",
+      "icon": "palette"
+    },
+    {
+      "title": "Development",
+      "posts": "2,341 posts",
+      "icon": "code"
+    },
+    {
+      "title": "Marketing",
+      "posts": "654 posts",
+      "icon": "trending_up"
+    },
+    {
+      "title": "Support",
+      "posts": "432 posts",
+      "icon": "support_agent"
+    },
+    {
+      "title": "General",
+      "posts": "3,210 posts",
+      "icon": "forum"
+    }
+  ]
+}

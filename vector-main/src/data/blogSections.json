@@ -1,0 +1,18 @@
+{
+  "title": "Caring is the new marketing",
+  "subtitle": "The Vector blog is the best place to read about the latest membership insights, trends and more. See who's joining the community, read about how our community are increasing their membership income and lot's more.",
+  "blogs": [
+    {
+      "image": "blog1.jpg",
+      "title": "Creating Streamlined Safeguarding Processes with OneRen"
+    },
+    {
+      "image": "blog2.jpg",
+      "title": "What are your safeguarding responsibilities and how can you manage them?"
+    },
+    {
+      "image": "blog3.jpg",
+      "title": "Revamping the Membership Model with Triathlon Australia"
+    }
+  ]
+}

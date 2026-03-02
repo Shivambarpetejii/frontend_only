@@ -1,0 +1,56 @@
+{
+  "categories": [
+    "All",
+    "Community",
+    "Product",
+    "Design",
+    "Marketing",
+    "Engineering"
+  ],
+  "featured": {
+    "tag": "Product",
+    "title": "How to grow your community 3x faster with Vector's new engagement tools",
+    "excerpt": "Discover the latest features that have helped thousands of organizations triple their member engagement in just 90 days.",
+    "author": "Sarah Chen",
+    "authorInitials": "SC",
+    "authorColor": "#4CAF4F",
+    "date": "Feb 14, 2025",
+    "readTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80"
+  },
+  "posts": [
+    {
+      "tag": "Community",
+      "title": "The secret to retaining members long-term",
+      "excerpt": "Learn the proven frameworks top communities use to keep members engaged for years.",
+      "author": "Marcus Wright",
+      "authorInitials": "MW",
+      "authorColor": "#2196F3",
+      "date": "Feb 10, 2025",
+      "readTime": "5 min read",
+      "image": "https://images.unsplash.com/photo-1543269664-7eef42226a21?w=600&q=80"
+    },
+    {
+      "tag": "Design",
+      "title": "Designing for community: UX principles that work",
+      "excerpt": "A deep dive into the design patterns that make community platforms feel intuitive.",
+      "author": "Aiko Tanaka",
+      "authorInitials": "AT",
+      "authorColor": "#9C27B0",
+      "date": "Feb 7, 2025",
+      "readTime": "6 min read",
+      "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&q=80"
+    },
+    {
+      "tag": "Marketing",
+      "title": "Content marketing strategies for online communities",
+      "excerpt": "How to use content as a growth lever to attract and convert new community members.",
+      "author": "Priya Sharma",
+      "authorInitials": "PS",
+      "authorColor": "#FF9800",
+      "date": "Feb 3, 2025",
+      "readTime": "7 min read",
+      "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&q=80"
+    }
+  ]
+}

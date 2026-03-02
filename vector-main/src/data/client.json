@@ -1,0 +1,14 @@
+{
+  "clients": {
+    "title": "Our Clients",
+    "subtitle": "We have been working with some Fortune 500+ clients",
+    "logos": [
+      "/src/assets/logo1.png",
+      "/src/assets/logo2.png",
+      "/src/assets/logo1.png",
+      "/src/assets/logo2.png",
+      "/src/assets/logo1.png",
+      "/src/assets/logo2.png"
+    ]
+  }
+}

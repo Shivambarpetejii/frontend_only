@@ -1,0 +1,27 @@
+{
+  "title": "Helping a local",
+  "highlight": "business reinvent itself",
+  "subtitle": "We reached here with our hard work and dedication",
+  "stats": [
+    {
+      "number": "2,245,341",
+      "label": "Members",
+      "icon": "members"
+    },
+    {
+      "number": "46,328",
+      "label": "Clubs",
+      "icon": "clubs"
+    },
+    {
+      "number": "828,867",
+      "label": "Event Bookings",
+      "icon": "bookings"
+    },
+    {
+      "number": "1,926,436",
+      "label": "Payments",
+      "icon": "payments"
+    }
+  ]
+}
